@@ -1,0 +1,163 @@
+.heading-1{ 
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:30px;
+    padding:0 60px 0 50px;
+}
+
+.heading-2 { 
+   display:flex;
+   justify-content:center;
+   align-items:center;
+   gap:80px;
+   margin-top:-50px;
+}
+
+ul {
+    list-style:none;
+    display:flex;
+    gap:30px;
+}
+
+.heading-2{
+    padding:80px 0;
+}
+a { 
+    text-decoration: none;
+ }
+ #div{
+    max-width:350px;
+    padding-bottom:80px;
+ }
+ .header,footer{
+    background:#1F2937 repeat;
+    margin: -8px;
+    color:#F9F8FA;
+ }
+ .header{
+    font-size:24px;
+    padding-bottom:-10px;
+ }
+ .sec-text, a{
+    font-size:18px;
+    color:#E5E7EB;
+ }
+ .par{
+    font-size:48px;
+    font-weight:bold;
+    color:#F9F8FA;
+    margin-bottom:10px;
+ }
+ #btn-1{
+      background:#3882F6;
+      border-radius:15px;
+      cursor:pointer;
+      color:#F9F8FA;
+      border-color:#F9F8FA;
+      width:100px;
+      height:40px;
+      padding:3px;
+      box-sizing: border-box;
+ }
+ .btn-div{
+    margin-top:-60px;
+    margin-left:50px;
+ }
+ h2{
+    text-align:center;
+    font-size:36px;
+    color:#1F2937;
+ }
+ #div3{
+    display:flex;
+    justify-content: center;
+    width:80%;
+    margin:0 auto;
+    padding-bottom:150px;
+    color:#1F2937;
+    gap:30px;
+ }
+ #div3 div{
+   flex:1 1 200px;
+   text-align:center;
+ }
+ #quote{
+   text-align:center;
+   width:60%;
+   margin:0 auto;
+ }
+ .quote-section{
+   background:#E5E7EB;
+   font-size:36px;
+    color: #1F2937;
+    font-style: italic;
+    padding:2px;
+    margin:0px -8px 80px;
+ }
+ #author{
+   display:block;
+   margin-left: 500px;
+   font-size:22px;
+   font-weight:bold;
+ }
+ #signup-sec{
+   display:flex;
+   justify-content:center;
+    gap:100px;
+    background:#3882F6;
+    padding:40px;
+    width:80%;
+    margin:0 auto 100px;
+    border-radius:20px;
+    color:#F9F8FA;
+    font-size:20px;
+    box-sizing: border-box;
+ }
+ .span{
+   display:block;
+ }
+ #span{
+   font-weight:bold;
+ }
+ #btn-2{
+   height:35px;
+   width:85px;
+   align-self: center;
+   background:#3882F6;
+   border-color:#F9F8FA;
+   border-radius:5px;
+   cursor: pointer;
+   color:#E5E7EB;
+ }
+ footer{
+   text-align:center;
+   padding:40px;
+ }
+ .fas{
+   display:block;
+   margin-left:30px;
+   padding-top:-9px;
+ }
+ .heading-1 div{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-style:italic;
+   color:cornsilk;
+   font-weight:bold;
+ }
+ img{
+   height:300px;
+   width:400px;
+   border-radius:10px;
+ }
+ .para{
+   padding:50px;
+ }
+ .image{
+   max-width:200px;
+   max-height:200px;
+ }
+    
+ 
+
+
